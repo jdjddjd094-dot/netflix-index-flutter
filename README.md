@@ -1,6 +1,6 @@
 <img src="https://github.com/MMUU6699/Index-pro/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png.jpg" alt="Billie Eilish Logo" width="400" height="400">  </a>
 
-# Netflix Clone - نسخة طبق الأصل من نتفليكس       
+س       
 
 
 تطبيق نسخة طبق الأصل من Netflix مبني بـ Flutter مع دعم اللغتين العربية والإنجليزية.
