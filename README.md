@@ -2,10 +2,12 @@
   <a href="https://github.com/gdytd141-commits/MovieDB">
     <img src="https://github.com/MMUU6699/Index-pro/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png.jpg" alt="Billie Eilish Logo" width="400" height="400">
   </a>
+  *****************************************************************************************************************************************************************************************
+  
 
 
   
- #تطبيق نسخة طبق الأصل من Netflix مبني بـ Flutter مع دعم اللغتين العربية والإنجليزية.
+ ##تطبيق نسخة طبق الأصل من Netflix مبني بـ Flutter مع دعم اللغتين العربية والإنجليزية.
 
 ## المميزات الرئيسية
 
